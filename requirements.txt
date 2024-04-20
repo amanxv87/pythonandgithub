@@ -12,7 +12,6 @@ constantly==15.1.0
 cryptography==3.4.8
 dbus-python==1.2.18
 distro==1.7.0
-ec2-hibinit-agent==1.0.0
 exceptiongroup==1.2.1
 Flask==3.0.3
 hibagent==1.0.1
