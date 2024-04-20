@@ -5,5 +5,4 @@ def test_index():
     assert index() == "Hello, World!"
 
 
-def setup(self)():
-    assert index() == "Hello, World!"
+
